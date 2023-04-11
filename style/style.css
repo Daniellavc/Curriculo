@@ -1,18 +1,47 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f1f1f1;
-  }
-  
-  header {
-    background-color: #c09393;
-    color: #1d1b1b;
-   
-  }
+* {
+  margin: 0;
+  padding: 0;
+}
 
-  img {
-    border-radius: 100px;
-    width: 200px;
-    height: 190px;
-    margin-top: 20px;
-    margin-left: 20px;
-  }
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e7f7f5;
+}
+
+header {
+  background-color: #80d3d6;
+  color: #080606;
+
+}
+
+img {
+  border-radius: 100px;
+  width: 200px;
+  height: 190px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+
+header ul {
+  list-style-type: none;
+  margin-bottom: 30px;
+}
+
+#sobre {
+  margin-bottom: 30px;
+}
+
+#habilidade ul {
+  list-style-type: none;
+  margin-bottom: 30px;
+}
+
+#experiencia ul {
+  margin-bottom: 30px;
+}
+
+#educacao ul {
+  margin-bottom: 30px;
+}
